@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I Rudy 👋
 
-<!--
-**RudyR1/RudyR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer from Paris. 💻
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
